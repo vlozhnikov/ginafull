@@ -1,0 +1,55 @@
+<Configuration>
+  <SharedSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </SharedSolutionDisabledTemplatesManager>
+  <UserSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </UserSolutionDisabledTemplatesManager>
+  <FileStructureView>
+    <AutoScrollToSource>False</AutoScrollToSource>
+    <TrackCaretLocation>False</TrackCaretLocation>
+  </FileStructureView>
+  <ReFormatCode>
+    <ReorderMembers>False</ReorderMembers>
+    <OptimizeUsings>False</OptimizeUsings>
+    <RemoveRedundantThis>False</RemoveRedundantThis>
+    <ShortenReferences>False</ShortenReferences>
+  </ReFormatCode>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <EditorManager>
+    <RecentFiles>
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:Commander.h" caret="969" scrollPosition="0|10" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:ginafull.rc" caret="2790" scrollPosition="0|100" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:GuiHelper.h" caret="0" scrollPosition="0|0" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:Log.h" caret="0" scrollPosition="0|2" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:RegistryHelper.h" caret="0" scrollPosition="0|0" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:SecurityOptionsDialog.h" caret="415" scrollPosition="0|0" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:StatusWindow.h" caret="0" scrollPosition="0|0" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:SecurityHelper.h" caret="264" scrollPosition="0|0" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:DLLMain.cpp" caret="505" scrollPosition="0|0" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:Log.cpp" caret="3094" scrollPosition="0|84" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:Packet.cpp" caret="0" scrollPosition="0|0" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:RegistryHelper.cpp" caret="2792" scrollPosition="0|85" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:StatusWindow.cpp" caret="1444" scrollPosition="0|36" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:ResultReader.cpp" caret="0" scrollPosition="0|0" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:Commander.cpp" caret="4632" scrollPosition="0|150" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:LogonDialog.h" caret="187" scrollPosition="0|0" />
+      <File id="FEF6091E-C9D8-4D86-B524-62391A238AE7/f:test.cpp" caret="76" scrollPosition="0|0" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:GuiHelper.cpp" caret="1569" scrollPosition="0|48" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:SecurityHelper.cpp" caret="3558" scrollPosition="0|198" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:GinaModalDialog.h" caret="833" scrollPosition="0|0" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:GinaModalDialog.cpp" caret="122" scrollPosition="0|0" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:NoticeDialog.h" caret="216" scrollPosition="0|15" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:WinLogonInterface.h" caret="1003" scrollPosition="0|3" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:SecurityOptionsDialog.cpp" caret="0" scrollPosition="0|6" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:LogonDialog.cpp" caret="0" scrollPosition="0|167" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:Gina.h" caret="0" scrollPosition="0|0" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:Exports.cpp" caret="4544" scrollPosition="0|255" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:Gina.def" caret="0" scrollPosition="0|0" />
+      <File id="C4A572D9-6835-49B8-ACFB-DEE9A76EFC57/f:Gina.cpp" caret="12103" scrollPosition="0|394" />
+    </RecentFiles>
+  </EditorManager>
+  <CompletionStatisticsManager />
+</Configuration>
